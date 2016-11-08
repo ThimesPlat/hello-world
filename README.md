@@ -1,3 +1,3 @@
  # hello-world
-hello world\n
+hello world
 doing this during lecture for test driven development
